@@ -17,12 +17,12 @@ How to Run:
 
 Place your dataset as sample_data.csv in the working directory.
 
-Run the script task1_etl_pipeline.py or Jupyter Notebook provided.
+Run the script task-1.py or Jupyter Notebook provided.
 
-The processed training and test datasets will be saved as CSV files.
+The processed training and test datasets will be saved as numpy arrays.
 
 Outputs:
 
-X_train_processed.csv
+X_train_processed
 
-X_test_processed.csv
+X_test_processed
