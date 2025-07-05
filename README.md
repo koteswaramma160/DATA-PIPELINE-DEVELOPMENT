@@ -1,36 +1,28 @@
-# Task 2 - Image Classification using TensorFlow
+✅ Task 1: Data Preprocessing Pipeline
 
-## Project Overview
+Title: Data Preprocessing and Transformation Pipeline using Pandas and Scikit-learn
 
-This project implements a Deep Learning model using **TensorFlow** for **image classification** on the **MNIST dataset** (handwritten digits). The model achieves high accuracy and is trained for 5 epochs.
+Description:
+This project demonstrates how to create a simple ETL (Extract, Transform, Load) pipeline in Python using Pandas and Scikit-learn. The pipeline handles missing values, scales numerical data, and encodes categorical variables automatically.
 
----
+Technologies:
 
-## 🔧 Technologies Used
+    Python
 
-- Python
-- TensorFlow/Keras
-- NumPy
-- Matplotlib
+    Pandas
 
----
+    Scikit-learn
 
-## 📊 Model Performance
+How to Run:
 
-- **Training Accuracy (Final):** ~97.6%
-- **Validation Accuracy (Final):** ~97.7%
-- **Test Accuracy:** `0.9764999747276306`
+Place your dataset as sample_data.csv in the working directory.
 
-![Training vs Validation Accuracy](accuracy_plot.png)
+Run the script task1_etl_pipeline.py or Jupyter Notebook provided.
 
----
+The processed training and test datasets will be saved as CSV files.
 
-## 🧠 Model Architecture
+Outputs:
 
-```python
-model = tf.keras.Sequential([
-    tf.keras.layers.Flatten(input_shape=(28, 28)),
-    tf.keras.layers.Dense(128, activation='relu'),
-    tf.keras.layers.Dropout(0.2),
-    tf.keras.layers.Dense(10, activation='softmax')
-])
+X_train_processed.csv
+
+X_test_processed.csv
