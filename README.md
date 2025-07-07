@@ -12,6 +12,8 @@
 
 
 
+
+
 ✅ *Task 1* : Data Preprocessing Pipeline
 
 Title: Data Preprocessing and Transformation Pipeline using Pandas and Scikit-learn
@@ -47,6 +49,8 @@ X_test_processed
 
 
 
+
+
 ✅ *Task 2*: Deep Learning Model for Image Classification
 
 Title: Deep Learning Image Classification using TensorFlow (MNIST)
@@ -73,6 +77,7 @@ Outputs:
 Accuracy plot curve
 
 Test accuracy printed in console.
+
 
 <img width="657" height="452" alt="Image" src="https://github.com/user-attachments/assets/2ad5f707-e9f5-4f88-9737-6290a7243eeb" />
 
@@ -108,6 +113,8 @@ Web-based house price predictions.
 
 
 <img width="846" height="206" alt="Image" src="https://github.com/user-attachments/assets/f92a7175-e1ae-41cb-ba78-8d2d16173f3d" />
+
+
 
 
 ✅ Task 4: Optimization Model using Linear Programming
