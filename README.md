@@ -107,7 +107,7 @@ Outputs:
 Web-based house price predictions.
 
 
-<img width="657" height="452" alt="Image" src="https://github.com/user-attachments/assets/4f8cb1d9-3f20-47f3-b5a2-b45b946ce7ff" />
+<img width="846" height="206" alt="Image" src="https://github.com/user-attachments/assets/f92a7175-e1ae-41cb-ba78-8d2d16173f3d" />
 
 
 ✅ Task 4: Optimization Model using Linear Programming
