@@ -1,0 +1,6 @@
+age,salary,department
+25.0,50000.0,HR
+30.0,60000.0,Finance
+45.0,80000.0,IT
+,75000.0,HR
+35.0,,IT
