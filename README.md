@@ -10,6 +10,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
+<img width="676" height="563" alt="Image" src="https://github.com/user-attachments/assets/0516d775-edf8-4d2f-b493-40cd172cce62" />
 
 
 ✅ *Task 1* : Data Preprocessing Pipeline
