@@ -74,7 +74,7 @@ Accuracy plot curve
 
 Test accuracy printed in console.
 
-
+<img width="657" height="452" alt="Image" src="https://github.com/user-attachments/assets/2ad5f707-e9f5-4f88-9737-6290a7243eeb" />
 
 
 
@@ -107,8 +107,7 @@ Outputs:
 Web-based house price predictions.
 
 
-<img width="657" height="452" alt="Image" src="https://github.com/user-attachments/assets/2ad5f707-e9f5-4f88-9737-6290a7243eeb" />
-
+<img width="657" height="452" alt="Image" src="https://github.com/user-attachments/assets/4f8cb1d9-3f20-47f3-b5a2-b45b946ce7ff" />
 
 
 ✅ Task 4: Optimization Model using Linear Programming
