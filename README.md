@@ -1,18 +1,18 @@
-*COMPANY* :CODTECH IT SOLUTIONS
+*COMPANY* : CODTECH IT SOLUTIONS
 
-*NAME*:GAJJALA KOTESWARAMMA
+*NAME* : GAJJALA KOTESWARAMMA
 
-*INTERN ID*: CT08DL302
+*INTERN ID* : CT08DL302
 
-*DOMAIN*: DATA SCIENCE
+*DOMAIN* : DATA SCIENCE
 
-*DURATION*:8 WEEKS
+*DURATION* : 8 WEEKS
 
-*MENTOR*:NEELA SANTOSH
+*MENTOR* : NEELA SANTOSH
 
 
 
-✅ *Task 1*: Data Preprocessing Pipeline
+✅ *Task 1* : Data Preprocessing Pipeline
 
 Title: Data Preprocessing and Transformation Pipeline using Pandas and Scikit-learn
 
