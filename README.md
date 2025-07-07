@@ -40,6 +40,7 @@ The processed training and test datasets will be saved as numpy arrays in the va
 Outputs:
 
 X_train_processed
+
 X_test_processed
 
 <img width="510" height="210" alt="Image" src="https://github.com/user-attachments/assets/37e4840c-9167-49fe-b4bf-38b8617eee44" />
