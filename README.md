@@ -46,6 +46,7 @@ X_test_processed
 <img width="510" height="210" alt="Image" src="https://github.com/user-attachments/assets/37e4840c-9167-49fe-b4bf-38b8617eee44" />
 
 
+
 ✅ *Task 2*: Deep Learning Model for Image Classification
 
 Title: Deep Learning Image Classification using TensorFlow (MNIST)
@@ -70,7 +71,10 @@ The model will train for 5 epochs and plot accuracy curves.
 Outputs:
 
 Accuracy plot curve
+
 Test accuracy printed in console.
+
+
 
 
 
@@ -101,6 +105,9 @@ Access the web app at http://127.0.0.1:5070 (or the chosen port).
 Outputs:
 
 Web-based house price predictions.
+
+
+<img width="657" height="452" alt="Image" src="https://github.com/user-attachments/assets/2ad5f707-e9f5-4f88-9737-6290a7243eeb" />
 
 
 
